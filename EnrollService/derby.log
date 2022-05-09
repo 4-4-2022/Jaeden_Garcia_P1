@@ -1,0 +1,426 @@
+----------------------------------------------------------------
+Mon May 09 07:25:09 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\f92be04b-a11e-4358-b42b-98127766489c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 07:34:14 MST 2022:
+Shutting down instance a816c00e-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\f92be04b-a11e-4358-b42b-98127766489c with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 07:34:15 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 67bb80b4-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\4df8551a-9adc-4076-a0e2-63f21986ad78 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 07:49:20 MST 2022:
+Shutting down instance 67bb80b4-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\4df8551a-9adc-4076-a0e2-63f21986ad78 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 07:49:21 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 0249415a-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\fc6d5564-f255-4ef2-952d-f537e2116b28 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 07:51:31 MST 2022:
+Shutting down instance 0249415a-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\fc6d5564-f255-4ef2-952d-f537e2116b28 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 07:51:32 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f7c00200-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\ba124916-9a7e-431a-a81b-6d4f2fae3962 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:06:29 MST 2022:
+Shutting down instance f7c00200-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\ba124916-9a7e-431a-a81b-6d4f2fae3962 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:06:30 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance c81fc2a6-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\6028f352-96f6-4755-a8ea-a0ad043def71 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:07:18 MST 2022:
+Shutting down instance c81fc2a6-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\6028f352-96f6-4755-a8ea-a0ad043def71 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:07:19 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f368834c-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\056fab0c-b7dd-4c87-bb45-c820464fb376 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:10:08 MST 2022:
+Shutting down instance f368834c-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\056fab0c-b7dd-4c87-bb45-c820464fb376 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:10:09 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f99a43f2-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\83cf498a-ea9a-44f0-8692-6a99465d6124 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:22:12 MST 2022:
+Shutting down instance f99a43f2-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\83cf498a-ea9a-44f0-8692-6a99465d6124 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:22:32 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 5ab50498-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\a24a7b15-8d51-4b7d-98ae-7621d93f862a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:29:56 MST 2022:
+Shutting down instance 5ab50498-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\a24a7b15-8d51-4b7d-98ae-7621d93f862a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:29:57 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 96b8c53e-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\bb460bc9-8995-44d4-8d27-b807682d3394 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:35:50 MST 2022:
+Shutting down instance 96b8c53e-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\bb460bc9-8995-44d4-8d27-b807682d3394 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:35:50 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2da585e4-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\0e9b20b6-b65e-414b-9466-a921662aed04 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:36:35 MST 2022:
+Shutting down instance 2da585e4-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\0e9b20b6-b65e-414b-9466-a921662aed04 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:36:36 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9f7b468a-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\5ab0a945-92c8-4dca-a6ff-f28235fcc383 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:38:05 MST 2022:
+Shutting down instance 9f7b468a-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\5ab0a945-92c8-4dca-a6ff-f28235fcc383 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:38:06 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 6c3a0730-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\2a0e6a32-d95d-4cfa-87ce-65ef743b2f78 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:38:25 MST 2022:
+Shutting down instance 6c3a0730-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\2a0e6a32-d95d-4cfa-87ce-65ef743b2f78 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:38:26 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 13e1c7d6-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\589b913d-6ce2-4502-9c9d-46383c9b797e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:39:06 MST 2022:
+Shutting down instance 13e1c7d6-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\589b913d-6ce2-4502-9c9d-46383c9b797e with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:39:07 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 1672887c-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\e6995e00-a08e-4447-98a7-80baa4a22820 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:54:59 MST 2022:
+Shutting down instance 1672887c-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\e6995e00-a08e-4447-98a7-80baa4a22820 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:55:00 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f3ec4922-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\f7ccc364-724e-4476-8087-3b95d4031411 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:56:51 MST 2022:
+Shutting down instance f3ec4922-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\f7ccc364-724e-4476-8087-3b95d4031411 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:56:52 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 2c4f09c8-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\83354f1e-af8a-4354-af87-037ef0af1192 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 08:57:47 MST 2022:
+Shutting down instance 2c4f09c8-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\83354f1e-af8a-4354-af87-037ef0af1192 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 08:57:48 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 3f9aca6e-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\36f426f4-5dc6-410b-be89-f04e3fb94a85 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 09:02:12 MST 2022:
+Shutting down instance 3f9aca6e-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\36f426f4-5dc6-410b-be89-f04e3fb94a85 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 09:02:13 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance adcf8b14-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\693cdd55-83e2-46f3-9fcc-d8829f2fefb8 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 09:03:14 MST 2022:
+Shutting down instance adcf8b14-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\693cdd55-83e2-46f3-9fcc-d8829f2fefb8 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 09:03:15 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f6ed4bba-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\19ecde93-d4a2-4316-96ce-78171462e734 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 09:03:40 MST 2022:
+Shutting down instance f6ed4bba-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\19ecde93-d4a2-4316-96ce-78171462e734 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 09:03:41 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 9af40c60-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\95e99e9c-4f81-41fb-95b4-a9b12edee80f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 09:11:15 MST 2022:
+Shutting down instance 9af40c60-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\95e99e9c-4f81-41fb-95b4-a9b12edee80f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 09:11:16 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 19e3cd06-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\8682f98d-2534-4611-b4f0-72c260e5462a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 09:11:21 MST 2022:
+Shutting down instance 19e3cd06-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\8682f98d-2534-4611-b4f0-72c260e5462a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 09:11:22 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance f3bc8dac-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\292e8a46-b657-475f-96d4-403e49fa1e99 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 09:12:46 MST 2022:
+Shutting down instance f3bc8dac-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\292e8a46-b657-475f-96d4-403e49fa1e99 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 09:12:47 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a87e4e52-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\8557ca40-8b5b-41cb-9dab-845381fc656f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 09:12:47 MST 2022:
+Shutting down instance a87e4e52-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\8557ca40-8b5b-41cb-9dab-845381fc656f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 09:12:47 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance b8290ef8-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\8557ca40-8b5b-41cb-9dab-845381fc656f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 09:13:09 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 03e70ef9-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\c224e4d4-51e1-469c-acc8-dcf0dcf9fcc5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 09:17:33 MST 2022:
+Shutting down instance 03e70ef9-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\c224e4d4-51e1-469c-acc8-dcf0dcf9fcc5 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 09:17:34 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance dea44f9f-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\381672a1-615e-4216-8ec0-7864692ab77a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Mon May 09 09:19:20 MST 2022:
+Shutting down instance dea44f9f-0180-a935-aea5-0000025cd820 on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\381672a1-615e-4216-8ec0-7864692ab77a with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+----------------------------------------------------------------
+Mon May 09 09:19:21 MST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance 544a9045-0180-a935-aea5-0000025cd820 
+on database directory memory:C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService\119602a6-edde-4943-8c98-440aae7338b3 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2f333739 
+Loaded from file:/C:/Users/Jaeden%20Garcia/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Eclipse Adoptium
+java.runtime.version=17.0.2+8
+user.dir=C:\Users\Jaeden Garcia\Documents\workspace-spring-tool-suite-4-4.14.0.RELEASE\practice\EnrollService
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
